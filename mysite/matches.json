@@ -1,0 +1,23 @@
+[
+    {
+      "id": 999,
+      "home_team": {
+        "id": 1,
+        "name": "Liverpool"
+      },
+      "away_team": {
+        "id": 5,
+        "name": "Arsenal"
+      },
+      "fixture_id": 1208376,
+      "date": "2025-08-30T17:00:00Z",
+      "status": "NS",
+      "league_name": "Premier League",
+      "season": 2025,
+      "home_goals": null,
+      "away_goals": null,
+      "winner": null,
+      "is_upcoming": true
+    }
+  ]
+  

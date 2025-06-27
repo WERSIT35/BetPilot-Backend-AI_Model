@@ -1,0 +1,802 @@
+[
+    {
+    "id": 1000000,
+    "home_team": {
+      "id": 30,
+      "name": "Tottenham"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000000,
+    "date": "2025-06-26T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 3,
+    "away_goals": 1,
+    "winner": "Tottenham",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000001,
+    "home_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "away_team": {
+      "id": 50,
+      "name": "Everton"
+    },
+    "fixture_id": 2000001,
+    "date": "2025-06-22T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 3,
+    "away_goals": 4,
+    "winner": "Everton",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000002,
+    "home_team": {
+      "id": 40,
+      "name": "Newcastle"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000002,
+    "date": "2025-06-17T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 3,
+    "away_goals": 0,
+    "winner": "Newcastle",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000003,
+    "home_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000003,
+    "date": "2025-06-13T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 0,
+    "winner": "Arsenal",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000004,
+    "home_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "away_team": {
+      "id": 10,
+      "name": "Manchester United"
+    },
+    "fixture_id": 2000004,
+    "date": "2025-06-07T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 2,
+    "away_goals": 0,
+    "winner": "Liverpool",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000005,
+    "home_team": {
+      "id": 40,
+      "name": "Newcastle"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000005,
+    "date": "2025-06-04T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 0,
+    "away_goals": 0,
+    "winner": null,
+    "is_upcoming": false
+  },
+  {
+    "id": 1000006,
+    "home_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "away_team": {
+      "id": 30,
+      "name": "Tottenham"
+    },
+    "fixture_id": 2000006,
+    "date": "2025-05-29T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 2,
+    "away_goals": 0,
+    "winner": "Liverpool",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000007,
+    "home_team": {
+      "id": 40,
+      "name": "Newcastle"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000007,
+    "date": "2025-05-23T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 0,
+    "away_goals": 2,
+    "winner": "Liverpool",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000008,
+    "home_team": {
+      "id": 30,
+      "name": "Tottenham"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000008,
+    "date": "2025-05-20T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 3,
+    "winner": "Liverpool",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000009,
+    "home_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000009,
+    "date": "2025-05-17T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 1,
+    "winner": null,
+    "is_upcoming": false
+  },
+  {
+    "id": 1000010,
+    "home_team": {
+      "id": 10,
+      "name": "Manchester United"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000010,
+    "date": "2025-05-13T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 2,
+    "away_goals": 1,
+    "winner": "Manchester United",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000011,
+    "home_team": {
+      "id": 50,
+      "name": "Everton"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000011,
+    "date": "2025-05-07T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 4,
+    "away_goals": 3,
+    "winner": "Everton",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000012,
+    "home_team": {
+      "id": 10,
+      "name": "Manchester United"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000012,
+    "date": "2025-05-01T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 2,
+    "away_goals": 4,
+    "winner": "Liverpool",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000013,
+    "home_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "away_team": {
+      "id": 45,
+      "name": "Brighton"
+    },
+    "fixture_id": 2000013,
+    "date": "2025-04-25T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 0,
+    "away_goals": 2,
+    "winner": "Brighton",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000014,
+    "home_team": {
+      "id": 10,
+      "name": "Manchester United"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000014,
+    "date": "2025-04-20T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 3,
+    "away_goals": 0,
+    "winner": "Manchester United",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000015,
+    "home_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "away_team": {
+      "id": 10,
+      "name": "Manchester United"
+    },
+    "fixture_id": 2000015,
+    "date": "2025-04-13T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 4,
+    "away_goals": 2,
+    "winner": "Liverpool",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000016,
+    "home_team": {
+      "id": 35,
+      "name": "Leeds United"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000016,
+    "date": "2025-04-09T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 0,
+    "winner": "Leeds United",
+    "is_upcoming": false
+  },
+  {
+    "id": 1000017,
+    "home_team": {
+      "id": 10,
+      "name": "Manchester United"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2000017,
+    "date": "2025-04-06T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 0,
+    "away_goals": 0,
+    "winner": null,
+    "is_upcoming": false
+  },
+  {
+    "id": 1000018,
+    "home_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "away_team": {
+      "id": 25,
+      "name": "Manchester City"
+    },
+    "fixture_id": 2000018,
+    "date": "2025-04-02T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 4,
+    "away_goals": 4,
+    "winner": null,
+    "is_upcoming": false
+  },
+  {
+    "id": 1000019,
+    "home_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "away_team": {
+      "id": 35,
+      "name": "Leeds United"
+    },
+    "fixture_id": 2000019,
+    "date": "2025-03-26T08:58:46.016592Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 2,
+    "away_goals": 1,
+    "winner": "Liverpool",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100000,
+    "home_team": {
+      "id": 40,
+      "name": "Newcastle"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100000,
+    "date": "2025-06-26T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 2,
+    "winner": "Arsenal",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100001,
+    "home_team": {
+      "id": 25,
+      "name": "Manchester City"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100001,
+    "date": "2025-06-21T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 2,
+    "winner": "Arsenal",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100002,
+    "home_team": {
+      "id": 10,
+      "name": "Manchester United"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100002,
+    "date": "2025-06-16T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 4,
+    "winner": "Arsenal",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100003,
+    "home_team": {
+      "id": 40,
+      "name": "Newcastle"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100003,
+    "date": "2025-06-12T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 2,
+    "away_goals": 0,
+    "winner": "Newcastle",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100004,
+    "home_team": {
+      "id": 25,
+      "name": "Manchester City"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100004,
+    "date": "2025-06-05T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 3,
+    "away_goals": 2,
+    "winner": "Manchester City",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100005,
+    "home_team": {
+      "id": 35,
+      "name": "Leeds United"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100005,
+    "date": "2025-05-30T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 0,
+    "winner": "Leeds United",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100006,
+    "home_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "away_team": {
+      "id": 30,
+      "name": "Tottenham"
+    },
+    "fixture_id": 2100006,
+    "date": "2025-05-26T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 4,
+    "winner": "Tottenham",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100007,
+    "home_team": {
+      "id": 35,
+      "name": "Leeds United"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100007,
+    "date": "2025-05-19T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 2,
+    "away_goals": 3,
+    "winner": "Arsenal",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100008,
+    "home_team": {
+      "id": 45,
+      "name": "Brighton"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100008,
+    "date": "2025-05-14T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 3,
+    "away_goals": 4,
+    "winner": "Arsenal",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100009,
+    "home_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100009,
+    "date": "2025-05-10T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 1,
+    "winner": null,
+    "is_upcoming": false
+  },
+  {
+    "id": 1100010,
+    "home_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "away_team": {
+      "id": 10,
+      "name": "Manchester United"
+    },
+    "fixture_id": 2100010,
+    "date": "2025-05-05T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 4,
+    "away_goals": 1,
+    "winner": "Arsenal",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100011,
+    "home_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2100011,
+    "date": "2025-05-01T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 2,
+    "winner": "Liverpool",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100012,
+    "home_team": {
+      "id": 25,
+      "name": "Manchester City"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100012,
+    "date": "2025-04-28T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 0,
+    "away_goals": 1,
+    "winner": "Arsenal",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100013,
+    "home_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2100013,
+    "date": "2025-04-25T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 4,
+    "away_goals": 4,
+    "winner": null,
+    "is_upcoming": false
+  },
+  {
+    "id": 1100014,
+    "home_team": {
+      "id": 10,
+      "name": "Manchester United"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100014,
+    "date": "2025-04-22T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 0,
+    "away_goals": 4,
+    "winner": "Arsenal",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100015,
+    "home_team": {
+      "id": 45,
+      "name": "Brighton"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100015,
+    "date": "2025-04-17T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 0,
+    "winner": "Brighton",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100016,
+    "home_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "away_team": {
+      "id": 1,
+      "name": "Liverpool"
+    },
+    "fixture_id": 2100016,
+    "date": "2025-04-11T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 0,
+    "away_goals": 3,
+    "winner": "Liverpool",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100017,
+    "home_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "away_team": {
+      "id": 10,
+      "name": "Manchester United"
+    },
+    "fixture_id": 2100017,
+    "date": "2025-04-06T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 2,
+    "away_goals": 1,
+    "winner": "Arsenal",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100018,
+    "home_team": {
+      "id": 25,
+      "name": "Manchester City"
+    },
+    "away_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "fixture_id": 2100018,
+    "date": "2025-04-03T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 4,
+    "away_goals": 1,
+    "winner": "Manchester City",
+    "is_upcoming": false
+  },
+  {
+    "id": 1100019,
+    "home_team": {
+      "id": 5,
+      "name": "Arsenal"
+    },
+    "away_team": {
+      "id": 10,
+      "name": "Manchester United"
+    },
+    "fixture_id": 2100019,
+    "date": "2025-03-30T08:58:46.016851Z",
+    "status": "FT",
+    "league_name": "Premier League",
+    "season": 2024,
+    "home_goals": 1,
+    "away_goals": 1,
+    "winner": null,
+    "is_upcoming": false
+  }
+]
